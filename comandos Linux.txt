@@ -1,0 +1,17 @@
+
+
+#############################################
+########Comandos para Linux##################
+
+ls: Lista los archivos y carpetas en un directorio.
+cd: Cambia el directorio actual a otro directorio especificado.
+pwd: Muestra el directorio actual de trabajo.
+mkdir: Crea un nuevo directorio.
+rm: Elimina un archivo o directorio.
+cp: Copia un archivo o directorio.
+mv: Mueve o renombra un archivo o directorio.
+cat: Muestra el contenido de un archivo en la salida estándar.
+grep: Busca patrones específicos en archivos o en la salida de otros comandos.
+top: Muestra una lista de procesos en ejecución en el sistema, ordenados por uso de recursos como CPU y memoria.
+
+##############################################
